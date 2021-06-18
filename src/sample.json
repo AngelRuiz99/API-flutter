@@ -1,0 +1,16 @@
+[
+    {
+        "id":"1",
+        "title":"Aliens",
+        "director":"io",
+        "año":"1986",
+        "rating":"8.5"
+    },
+    {
+        "id":"2",
+        "title":"Minions",
+        "director":"Gru",
+        "año":"2015",
+        "rating":"0.5"
+    }
+]
